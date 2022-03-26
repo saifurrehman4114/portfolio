@@ -108,11 +108,17 @@
 .academic img{
 
     margin-right: 20px 0;
+    border-radius: 30%;
+
+}
+
+.academic-details{
+
+    margin: 0px 25px;
 }
 
 .project-section{
 
- 
     background-color: grey;
     color: White;
     padding: 3vh,6vw;
@@ -123,6 +129,8 @@
 .project{
 
     margin-top: 50px;
+    display: flex;
+
     justify-content:space-around;
 }
 
